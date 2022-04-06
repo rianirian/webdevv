@@ -1,0 +1,31 @@
+body {
+    background-color: beige;
+}
+
+#container1 {
+    margin-left: 38%;
+    margin-right: 40%;
+    width: 15%;
+    height: 30%%;
+    color: black;
+}
+
+#container2 {
+    background-color: aqua;
+    color: black;
+}
+
+#container3 {
+    background-color: cornflowerblue;
+    color: black;
+}
+
+#container4 {
+    background-color: darkseagreen;
+    color: black;
+}
+
+#container5{
+    background-color: rgb(199, 93, 93);
+    color: black;
+}
